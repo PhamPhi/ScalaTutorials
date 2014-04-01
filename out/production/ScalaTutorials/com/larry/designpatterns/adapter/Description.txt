@@ -1,0 +1,18 @@
+#####################################################################################################
+## DESIGN PATTERN DESCRIPTION:   ADAPTER PATTERN
+## EDITOR: Larry Pham
+## THE MOST COMMON PATTERN WHICH WILL BE USED FOR BUILDING THE SOFTWARE DEVELOPMENT OR ARCHITECTURE.
+##
+## COPYRIGHT 2014 (C) BY TECHIE DB INC. ALL RIGHTS RESERVED. THE PRODUCT DOCUMENTARY AND OTHER SUPPORT
+## DOCUMENT MUST TO BE PRIVELEDGED, DO NOT COPY AND REDUCE OR REPRODUCT ITS AS MAIN OR MAJOR PRODUCT.
+#####################################################################################################
+
+ADAPTER PATTERN:
+
+Motivation: To build the software, we must to combine the objects and other components for effective way
+The adapter pattern is adapting between classes and objects. Like any dapter in the real world it is used to be an interface, a bridge between two
+objects. In real world we have apdapters for power supplies,
+adapter for camera memory cards, and so on. Probably everyone have seen some adapters for memory cards. If you can not plug in the camera memory in
+your laptop you can use and adapter. You plug the camera memory in the adapter in to laptop slot. That's it, it's really simple.
+
+What about software development? It's the same. Can you image an situation when you have some class expecting some type of object
